@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141698042089",
+    "project_id": "aamdhani-ea8cc",
+    "storage_bucket": "aamdhani-ea8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141698042089:android:f65e2c97f21c0b2371c878",
+        "android_client_info": {
+          "package_name": "com.example.aamdhane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141698042089-i43cplrdru79a4fnfiqeop5sf61vepg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsoFEfu47Hpx3lvdsv8MoYxdk-ENjung"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141698042089-i43cplrdru79a4fnfiqeop5sf61vepg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
